@@ -1,0 +1,5 @@
+A=int(rand(3,3)*10)
+disp(A)
+B=int(rand(3,3)*10)
+disp(B)
+disp(A*B)

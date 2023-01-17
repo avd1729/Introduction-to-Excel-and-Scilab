@@ -1,0 +1,7 @@
+A=int(rand(3,3)*10)
+disp(A)
+B=int(rand(3,3)*10)
+disp(B)
+disp("BITWISE AND",bitand(A,B))
+disp("BITWISE OR",bitor(A,B))
+disp("BITWISE NOT OF A",~(A))

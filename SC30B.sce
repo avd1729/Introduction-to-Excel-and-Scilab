@@ -1,0 +1,7 @@
+A=int(rand(3,3)*10)
+disp(A)
+B=int(rand(3,3)*10)
+disp(B)
+disp("A OR B",A|B)
+disp("A AND B",A&B)
+disp("A NOT",~A)
